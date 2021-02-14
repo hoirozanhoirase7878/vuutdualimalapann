@@ -1,0 +1,4 @@
+baseURL = "https://decorationwerryut.vercel.app"
+languageCode = "en-us"
+title = "Room Decoration Idea"
+theme = "hugo-theme-minos"
